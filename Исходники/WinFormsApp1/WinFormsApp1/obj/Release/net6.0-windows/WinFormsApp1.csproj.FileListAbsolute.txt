@@ -1,0 +1,23 @@
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.exe
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.dll
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.game.resources
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.lose.resources
+C:\Users\Danil\Desktop\Release\net6.0-windows\Симулятор Камиллы.exe
+C:\Users\Danil\Desktop\Release\net6.0-windows\Симулятор Камиллы.deps.json
+C:\Users\Danil\Desktop\Release\net6.0-windows\Симулятор Камиллы.runtimeconfig.json
+C:\Users\Danil\Desktop\Release\net6.0-windows\Симулятор Камиллы.dll
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\Симулятор Камиллы.dll
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\refint\Симулятор Камиллы.dll
+C:\Users\Danil\source\repos\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ref\Симулятор Камиллы.dll
